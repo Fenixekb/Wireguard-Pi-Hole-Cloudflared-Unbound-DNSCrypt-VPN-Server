@@ -257,7 +257,7 @@ pihole -r
 bash Pihole_After_Update.bash
 
 echo "All Done!"
-echo "Rebooting!"
-sleep 1
-reboot
+#echo "Rebooting!"
+#sleep 1
+#reboot
 exit 0
